@@ -1,0 +1,2 @@
+Test: [0/4]	Loss 6.0571 (6.0571)	Accuracy  0.000 ( 0.000)
+ * Accuracy 31.234
